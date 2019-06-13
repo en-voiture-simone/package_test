@@ -1,0 +1,3 @@
+[submodule "dist/account"]
+	path = dist/account
+	url = git@github.com:en-voiture-simone/account.git
