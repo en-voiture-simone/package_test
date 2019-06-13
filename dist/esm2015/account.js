@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { AccountModule, AccountRoutes } from './public_api';
+export { LoginPageComponent as ɵa } from './lib/login/login';
+export { RegisterPageComponent as ɵb } from './lib/register/register';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYWNjb3VudC5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2FjY291bnQvIiwic291cmNlcyI6WyJhY2NvdW50LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSw2Q0FBYyxjQUFjLENBQUM7QUFFN0IsT0FBTyxFQUFDLGtCQUFrQixJQUFJLEVBQUUsRUFBQyxNQUFNLG1CQUFtQixDQUFDO0FBQzNELE9BQU8sRUFBQyxxQkFBcUIsSUFBSSxFQUFFLEVBQUMsTUFBTSx5QkFBeUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogR2VuZXJhdGVkIGJ1bmRsZSBpbmRleC4gRG8gbm90IGVkaXQuXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9wdWJsaWNfYXBpJztcblxuZXhwb3J0IHtMb2dpblBhZ2VDb21wb25lbnQgYXMgybVhfSBmcm9tICcuL2xpYi9sb2dpbi9sb2dpbic7XG5leHBvcnQge1JlZ2lzdGVyUGFnZUNvbXBvbmVudCBhcyDJtWJ9IGZyb20gJy4vbGliL3JlZ2lzdGVyL3JlZ2lzdGVyJzsiXX0=
