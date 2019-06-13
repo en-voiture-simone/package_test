@@ -1,0 +1,14 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+import { LoginPageComponent } from './login/login';
+import { RegisterPageComponent } from './register/register';
+/** @type {?} */
+export var AccountRoutes = [
+    // { path: 'login', loadChildren: './login/login.module#LoginPageModule' },
+    // { path: 'register', loadChildren: 'account/lib/register/register.module#RegisterPageModule' },
+    { path: 'login', component: LoginPageComponent },
+    { path: 'register', component: RegisterPageComponent },
+];
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYWNjb3VudC5yb3V0ZXIuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9hY2NvdW50LyIsInNvdXJjZXMiOlsibGliL2FjY291bnQucm91dGVyLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7QUFDQSxPQUFPLEVBQUUsa0JBQWtCLEVBQUUsTUFBTSxlQUFlLENBQUM7QUFDbkQsT0FBTyxFQUFFLHFCQUFxQixFQUFFLE1BQU0scUJBQXFCLENBQUM7O0FBRTVELE1BQU0sS0FBTyxhQUFhLEdBQVk7SUFDcEMsMkVBQTJFO0lBQzNFLGlHQUFpRztJQUNqRyxFQUFFLElBQUksRUFBRSxPQUFPLEVBQUUsU0FBUyxFQUFFLGtCQUFrQixFQUFFO0lBQ2hELEVBQUUsSUFBSSxFQUFFLFVBQVUsRUFBRSxTQUFTLEVBQUUscUJBQXFCLEVBQUU7Q0FDdkQiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBSb3V0ZSB9IGZyb20gJ0Bhbmd1bGFyL3JvdXRlcic7XG5pbXBvcnQgeyBMb2dpblBhZ2VDb21wb25lbnQgfSBmcm9tICcuL2xvZ2luL2xvZ2luJztcbmltcG9ydCB7IFJlZ2lzdGVyUGFnZUNvbXBvbmVudCB9IGZyb20gJy4vcmVnaXN0ZXIvcmVnaXN0ZXInO1xuXG5leHBvcnQgY29uc3QgQWNjb3VudFJvdXRlczogUm91dGVbXSA9IFtcbiAgLy8geyBwYXRoOiAnbG9naW4nLCBsb2FkQ2hpbGRyZW46ICcuL2xvZ2luL2xvZ2luLm1vZHVsZSNMb2dpblBhZ2VNb2R1bGUnIH0sXG4gIC8vIHsgcGF0aDogJ3JlZ2lzdGVyJywgbG9hZENoaWxkcmVuOiAnYWNjb3VudC9saWIvcmVnaXN0ZXIvcmVnaXN0ZXIubW9kdWxlI1JlZ2lzdGVyUGFnZU1vZHVsZScgfSxcbiAgeyBwYXRoOiAnbG9naW4nLCBjb21wb25lbnQ6IExvZ2luUGFnZUNvbXBvbmVudCB9LFxuICB7IHBhdGg6ICdyZWdpc3RlcicsIGNvbXBvbmVudDogUmVnaXN0ZXJQYWdlQ29tcG9uZW50IH0sXG5dO1xuIl19

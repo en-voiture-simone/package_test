@@ -1,0 +1,21 @@
+{
+  "name": "account",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0"
+  },
+  "main": "bundles/account.umd.js",
+  "module": "fesm5/account.js",
+  "es2015": "fesm2015/account.js",
+  "esm5": "esm5/account.js",
+  "esm2015": "esm2015/account.js",
+  "fesm5": "fesm5/account.js",
+  "fesm2015": "fesm2015/account.js",
+  "typings": "account.d.ts",
+  "metadata": "account.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
